@@ -1,0 +1,1 @@
+Build the project and publish it into providers dir.
